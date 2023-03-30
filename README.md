@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
- 🌱 I’m currently learning: How to create mobile applications with Database integration. 
+ 🌱 I’m currently learning: How to design and manage database systems with SQL 
  
  📫 How to reach me: 
 a.t.archiejr@comcast.net 
